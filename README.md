@@ -28,6 +28,8 @@ DrCyZ: Techniques for analyzing and extracting useful information from CyZ.
 <a href="https://drive.google.com/file/d/1-10jwzgkSGeENiq0CAjumRNgCSq2LRU5/view?usp=sharing">Subset of CyZ used to train Stylegan2-ada. Size 1024x1024.</a>
 <a href="https://drive.google.com/file/d/11vh7UhcHpUGpBkbzW_NcYUqvE8u3Tqv_/view?usp=sharing"><strong>TFRecord.</strong></a>
 
+<a href="https://drive.google.com/file/d/1CQ0iw9C2bGGzNLSYbA5mt0qgfy4jgECq/view?usp=sharing">Network checkpoint to generate the samples. Trained using 1 x NVIDIA Tesla P-100 at size 256x256 during 48h.</a>
+
 J. de Curtò i DíAz c@decurto.be
 
 I. de Zarzà i Cubero z@dezarza.be
