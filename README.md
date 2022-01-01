@@ -41,4 +41,6 @@ v0.1, released on 19/12/2021. Repository created.
 
 v0.7, released on 01/01/2022. Added synthetic samples from Perseverance generated using Stylegan2-ada at size 256x256. Added subset of CyZ at several sizes and in format TFRecords used to train the GAN Architecture.
 
+v0.9, released on 02/01/2022. Added notebooks to run in colab to reproduce experiments; K-means Clustering with PCA(2), t-SNE with PCA (99% variance), Stylegan2-ada to generate synthetic samples, statistics to analyse the dataset and example of instance segmentation with Deeplab.
+
 
