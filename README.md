@@ -4,6 +4,9 @@ DrCyZ: Techniques for analyzing and extracting useful information from CyZ.
 
 ![alt-text](https://github.com/decurtoidiaz/drcyz/blob/main/dr_cyz%2B.png)
 
+<a href="https://drive.google.com/file/d/1rfAjx28lDRp-9oGE3wsY_yMSR-3oHiw6/view?usp=sharing">Subset of CyZ used to train Stylegan2-ada.</a>
+<a href="https://drive.google.com/drive/folders/1--o-48jlDSojX0b-Ds58sEGnp_Uw40CZ?usp=sharing"><strong>Preview.</strong></a>
+
 <a href="https://drive.google.com/file/d/1-J08NqQH8Jrzk7ReR29rL2RI6x14qEJC/view?usp=sharing">Link to synthetic samples from Perseverance generated using Stylegan2-ada. Set of 100. Size 256x256.</a>
 <a href="https://drive.google.com/drive/folders/1mWAyJAq5gtMuNFKMpkZr8Kwh4Z2c4qAw?usp=sharing"><strong>Preview.</strong></a>
 
