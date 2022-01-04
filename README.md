@@ -1,5 +1,7 @@
 # DrCyZ
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5816858.svg)](https://doi.org/10.5281/zenodo.5816858)
+
 DrCyZ: Techniques for analyzing and extracting useful information from CyZ.
 
 ![alt-text](https://github.com/decurtoidiaz/drcyz/blob/main/dr_cyz%2B.png)
@@ -46,6 +48,6 @@ v0.7, released on 01/01/2022. Added synthetic samples from Perseverance generate
 
 v0.9, released on 02/01/2022. Added notebooks to run in colab to reproduce experiments; K-means Clustering with PCA(2), t-SNE with PCA (99% variance), Stylegan2-ada to generate synthetic samples, statistics to analyse the dataset and example of instance segmentation with Deeplab.
 
-v1.0, released on 03/01/2022. Added slides, presentation and report.
+v1.0, released on 03/01/2022. Added slides, presentation and report. Published the dataset on Zenodo ([10.5281/zenodo.5816858](https://doi.org/10.5281/zenodo.5816858)).
 
 
